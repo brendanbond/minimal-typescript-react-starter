@@ -1,0 +1,1 @@
+A minimimal React app starter that includes typescript, eslint, prettier, and styled-components.
